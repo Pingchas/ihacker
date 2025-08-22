@@ -1,10 +1,10 @@
 ---
 title: 黑客联盟
 hero:
-  title: Java
-  description: 从入门到精通Java编程语言
+  title: 黑客联盟
+  description: 编程、渗透、网络教程
   actions:
     - text: 开始学习
-      link: /
+      link: /guide
 features:
 ---
