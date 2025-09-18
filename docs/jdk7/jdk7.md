@@ -1,13 +1,15 @@
 ---
 nav:
-  title: Windows开发环境搭建基于Eclipse
+  title: JDK7
   order: -1
 group:
   title: 第一章
   order: -1
 ---
 
-# IDE 开发工具介绍
+# 开发环境搭建
+
+## IDE 开发工具介绍
 
 在实际开发中。是不可能使用记事本这种效率低的工作作为编码工具的。
 
